@@ -21,7 +21,7 @@ Me chamo Felipe Machado, sou apaixonado por tecnologia, inform√°tica e programa√
 
 <p>
   <img height="180" alt="GitHub Stats"
-    src="https://SEU-PROJETO.vercel.app/api?username=Felipecm1911&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+    src="https://Felipecm1911.vercel.app/api?username=Felipecm1911&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="180" alt="Top Linguagens"
-    src="https://SEU-PROJETO.vercel.app/api/top-langs/?username=Felipecm1911&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" />
+    src="https://Felipecm1911.vercel.app/api/top-langs/?username=Felipecm1911&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br" />
 </p>
